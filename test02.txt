@@ -1,0 +1,2 @@
+#python/bash/
+Git commit files to remote reposity
